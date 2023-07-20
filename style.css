@@ -1,0 +1,41 @@
+.name {
+    color: aquamarine;
+}
+
+section {
+    border: 1px solid red
+}
+body{
+    
+}
+.half-width{
+    width: 40%;
+    height: 300px;
+    float: left;
+    margin-left: 5%;
+    margin-top: 1%;
+    padding-left: 2%;
+    
+}
+.half-width img{
+    width: 70%;
+    height: 100%;
+}
+section {
+    height: 500px;
+}
+.topic-1 {
+    background-image: url(images/background.png);
+}
+.hire {
+    margin: 20px ;
+    padding: 10px;
+    border-radius: 10px;
+    text-decoration: none;
+    font-size: 15px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(3, 75, 36);
+}
+.topic-02 {
+    display: none;
+}
